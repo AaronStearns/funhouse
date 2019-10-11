@@ -17,10 +17,16 @@ It looks like the number of people who buy premium funhouse tickets and those wh
 
 ![](/hourPlot.png)
 
+The age of the customers and time of day that the tickets were sold seem to both be fairly normally distributed.
+
 -------------------------------------------
 
-The age of the customers and time of day that the tickets were sold seem to both be normally distributed.
+It can be observed that some ages do purchase far more tickets than others
 
 ![](/ageTixPlot.png)
 
+-------------------------------------------
 
+In order to understand the data better, it is best to create a table to group by and summarize spider/sound/ticket purchase frequencies
+
+![](/tableSpiderSoundTicket.png)
