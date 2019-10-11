@@ -2,4 +2,4 @@
 
 ### Data Exploration:
 
-![](/agePlot.png)
+![](/agePlot.png =250x)
