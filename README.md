@@ -9,9 +9,9 @@ In order to better understand the variables `time`, `age`, `spider`, `sound`, an
 
 ![](/tixPlot.png)
 
--------------------------------------------
-
 It looks like the number of people who buy premium funhouse tickets and those who don't are nearly evenly matched. 
+
+-------------------------------------------
 
 ![](/agePlot.png)
 
@@ -27,6 +27,8 @@ It can be observed that some ages do purchase far more tickets than others
 
 -------------------------------------------
 
-In order to understand the data better, it is best to create a table to group by and summarize spider/sound/ticket purchase frequencies
+In order to understand the data better, it is best to create a table to group by and summarize spider/sound/ticket purchase occurrences
 
 ![](/tableSpiderSoundTicket.png)
+
+At first glance of the raw frequencies, it would appear that when the spider is not working and the sound is working, far more people buy tickets than when the spider is working and the sound is not. 
