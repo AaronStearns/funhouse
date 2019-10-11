@@ -1,7 +1,7 @@
 library(tidyverse)
 library(lubridate)
 
-df <- read.csv("/Users/Nexcom/Downloads/funhouse_data.csv", stringsAsFactors=FALSE)
+df <- read.csv("/data/funhouse_data.csv", stringsAsFactors=FALSE)
 df$time <- hm(df$time)
 df$hour <- hour(df$time)
 
