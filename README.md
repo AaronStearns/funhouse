@@ -9,7 +9,7 @@ In order to better understand the variables `time`, `age`, `spider`, `sound`, an
 
 ![](/tixPlot.png)
 
-=========================
+-------------------------------------------
 
 It looks like the number of people who buy premium funhouse tickets and those who don't are nearly evenly matched. 
 
@@ -17,7 +17,7 @@ It looks like the number of people who buy premium funhouse tickets and those wh
 
 ![](/hourPlot.png)
 
-=========================
+-------------------------------------------
 
 The age of the customers and time of day that the tickets were sold seem to both be normally distributed.
 
