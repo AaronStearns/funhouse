@@ -3,7 +3,9 @@
 #### Initial data exploration and visualizations done in R
 #### Naive Bayes modeling done in Python
 
-##### Data Exploration:
+-------------------------------------------
+
+#### Data Exploration:
 
 In order to better understand the variables `time`, `age`, `spider`, `sound`, and `ticket` I first visualized them to view frequency of occurence and observe patterns: 
 
