@@ -39,7 +39,7 @@ At first glance of the raw frequencies, it would appear that when the spider is 
 
 However, it can also be seen that almost the exact same number of people (80 vs 81) DON'T buy tickets when the spider is not working and the sound is. 
 
-The main takeaway in this table seems to be that when both the spider and sound *are* working, the overwhelming majority of people in attendance will purchase premium tickets to the funhouse (raw frequency 52 purchases vs 12 non-purchases), and when neither device is working, the overwhelming majority do *not* buy funhouse tickets (raw frequency 17 purchases vs 45 non-purchases). At the same time, when one device is working and the other isn't, the frequency of ticket purchase and non-purchase are nearly identical.
+The main takeaway in this table seems to be that when both the spider and sound *are* working, the overwhelming majority of people in attendance will purchase premium tickets to the funhouse (raw frequency 52 purchases vs 12 non-purchases), and when neither device is working, the overwhelming majority will *not* buy funhouse tickets (raw frequency 17 purchases vs 45 non-purchases). At the same time, when one device is working and the other isn't, ticket purchase/non-purchase frequencies are nearly identical.
 
 If the carnival is gearing up for its busy season, where presumably far more than 314 attendees will be present in a month, it might be wise to consider repairing both devices. To be more certain, I have calculated the conditional probabilities of ticket purchase likelihood given the working state of the spider and sound using the Naive Bayes formula.
 
