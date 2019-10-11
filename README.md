@@ -9,15 +9,15 @@
 
 In order to better understand the variables `time`, `age`, `spider`, `sound`, and `ticket`, I first visualized them to view frequency of occurence and observe patterns: 
 
-![](/tixPlot.png)
+![](/images/tixPlot.png)
 
 It looks like the number of people who buy premium funhouse tickets and those who don't are roughly evenly matched. 
 
 -------------------------------------------
 
-![](/agePlot.png)
+![](/images/agePlot.png)
 
-![](/hourPlot.png)
+![](/images/hourPlot.png)
 
 The age of the customers and time of day that the tickets were sold seem to both be fairly normally distributed.
 
@@ -25,7 +25,7 @@ The age of the customers and time of day that the tickets were sold seem to both
 
 It can also be observed that some ages do purchase far more tickets than others:
 
-![](/ageTixPlot.png)
+![](/images/ageTixPlot.png)
 
 However, for modeling, I will be dropping the `time` and `age` variables, as the funhouse operator cannot know when and if carnivalgoers with different ages will be in attendance. 
 
@@ -33,7 +33,7 @@ However, for modeling, I will be dropping the `time` and `age` variables, as the
 
 In order to understand the data better, it is best to create a table grouped by spider/sound/ticket purchase occurrences:
 
-![](/tableSpiderSoundTicket.png)
+![](/images/tableSpiderSoundTicket.png)
 
 At first glance of the raw frequencies, it would appear that when the spider is *not* working and the sound *is* working, a lot of people buy tickets. This might be because the spider has a physical presence whether it is working or not, but the sound must be working in order to be heard. 
 
