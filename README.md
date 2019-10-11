@@ -1,1 +1,3 @@
 # funhouse
+
+### Data Exploration:
