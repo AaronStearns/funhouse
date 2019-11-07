@@ -1,5 +1,8 @@
 # funhouse
 
+#### Objective:
+To determine if a carnival funhouse operator should repair a faulty animatronic spider, a faulty spooky sound system, or both in order to attract more customers to purchase tickets.
+
 #### Initial data exploration and visualizations done in R
 #### Naive Bayes modeling done in Python
 
